@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NegyszogOOP", "NegyszogOOP\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "macskak", "macskak\macskak.csproj", "{FB2545C4-7F30-4F98-9041-A672FC39545B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "logik", "logik\logik.csproj", "{37863518-CA81-4EDC-9E09-D2CCDDA5AA2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{FB2545C4-7F30-4F98-9041-A672FC39545B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB2545C4-7F30-4F98-9041-A672FC39545B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB2545C4-7F30-4F98-9041-A672FC39545B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37863518-CA81-4EDC-9E09-D2CCDDA5AA2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37863518-CA81-4EDC-9E09-D2CCDDA5AA2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37863518-CA81-4EDC-9E09-D2CCDDA5AA2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37863518-CA81-4EDC-9E09-D2CCDDA5AA2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
