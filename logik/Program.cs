@@ -54,11 +54,8 @@ namespace logik
 
             #endregion vagy kapcsolat
 
-            
 
             Console.ReadKey();
-
-
         }
     }
 }
