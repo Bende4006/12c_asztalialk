@@ -1,7 +1,0 @@
-C:\Users\2021120\source\repos\HaromszogTipusaOOP\HaromszogTipusaOOP\bin\Debug\HaromszogTipusaOOP.exe.config
-C:\Users\2021120\source\repos\HaromszogTipusaOOP\HaromszogTipusaOOP\bin\Debug\HaromszogTipusaOOP.exe
-C:\Users\2021120\source\repos\HaromszogTipusaOOP\HaromszogTipusaOOP\bin\Debug\HaromszogTipusaOOP.pdb
-C:\Users\2021120\source\repos\HaromszogTipusaOOP\HaromszogTipusaOOP\obj\Debug\HaromszogTipusaOOP.csproj.AssemblyReference.cache
-C:\Users\2021120\source\repos\HaromszogTipusaOOP\HaromszogTipusaOOP\obj\Debug\HaromszogTipusaOOP.csproj.CoreCompileInputs.cache
-C:\Users\2021120\source\repos\HaromszogTipusaOOP\HaromszogTipusaOOP\obj\Debug\HaromszogTipusaOOP.exe
-C:\Users\2021120\source\repos\HaromszogTipusaOOP\HaromszogTipusaOOP\obj\Debug\HaromszogTipusaOOP.pdb
